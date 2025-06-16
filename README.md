@@ -17,7 +17,7 @@
 
 ## 🔭 Current Projects
 
-- 🏎️ **[CrossCountryCarrera](https://github.com/GeorgeGattey/ecom-frontend-5...)** – Frontend for an e-commerce platform (React + Tailwind)
+- 🏎️ **[CrossCountryCarrera](https://github.com/GeorgeGattey/seng201-team15-project)** – a 2D racing game built in JavaFX
 - ⚙️ Portfolio Front-End Page (WORK IN PROGRESS)
 - ⚙️ full-stack application with React & SpringBoot (WORK IN PROGRESS)
 

@@ -28,6 +28,5 @@
 - Email: [georgegattey@gmail.com](mailto:georgegattey@gmail.com)
 - LinkedIn: [George Gattey](https://www.linkedin.com/in/george-gattey-52200a341/)
 - Location: Christchurch, New Zealand  
-- Currently open to 2025 internship opportunities in **software development**, **full-stack**, or **backend dev**
 
 ---

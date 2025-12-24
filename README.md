@@ -1,9 +1,9 @@
 # 👋 Hi, I'm George Gattey
 
 🎓 Final-year Computer Science student at the University of Canterbury  
-💻 Passionate about building clean, testable software — especially in **Java** and **Python**  
-🏎️ Creator of [Cross Country Carrera](https://github.com/GeorgeGattey/seng201-team15-project) — a 2D racing game built in JavaFX  
-📦 Currently working on full-stack project with React, SpringBoot & MySQL
+💻 Passionate about building clean, testable software, especially in **Java** and **Python**  
+🏎️ Creator of [Cross Country Carrera](https://github.com/GeorgeGattey/seng201-team15-project), a 2D racing game built in JavaFX  
+📦 Currently working on a full-stack project with React, SpringBoot & MySQL
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 🔭 Current Projects
 
-- 🏎️ **[CrossCountryCarrera](https://github.com/GeorgeGattey/seng201-team15-project)** – a 2D racing game built in JavaFX
+- 🏎️ **[CrossCountryCarrera](https://github.com/GeorgeGattey/seng201-team15-project)**, a 2D racing game built in JavaFX
 - ⚙️ Portfolio Front-End Page (WORK IN PROGRESS)
 - ⚙️ full-stack application with React, SpringBoot & MySQL (WORK IN PROGRESS)
 

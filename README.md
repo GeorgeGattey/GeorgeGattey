@@ -22,9 +22,9 @@ Full-stack web application built with a team of 6 in a Scrum environment.
 Contributed across backend and frontend with regular sprints and peer code review.
 🔗 *Live demo coming soon* · *(Private repo — available on request)*
 
-### 📝 Personal Full-Stack App
-Task management app built solo with **React**, **Spring Boot**, and **MySQL**.
-Focused on clean REST API design, auth, and deployment.
+### 📝 Task Manager
+Full-stack app built solo with **React**, **Spring Boot**, and **MySQL**.
+Focused on clean REST API design and layered architecture (Controller → Service → Repository).
 [View Repository →](https://github.com/GeorgeGattey/FullStackProject)
 
 ### 🏎️ Cross Country Carrera

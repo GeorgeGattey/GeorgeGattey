@@ -25,7 +25,7 @@ Contributed across backend and frontend with regular sprints and peer code revie
 ### 📝 Personal Full-Stack App
 Task management app built solo with **React**, **Spring Boot**, and **MySQL**.
 Focused on clean REST API design, auth, and deployment.
-[View Repository →]([https://github.com/GeorgeGattey/](https://github.com/GeorgeGattey/FullStackProject))
+[View Repository →](https://github.com/GeorgeGattey/FullStackProject)
 
 ### 🏎️ Cross Country Carrera
 2D racing game built in **JavaFX** for a university project.

@@ -2,7 +2,7 @@
 
 - Final Year Computer Science student at the University of Canterbury  
 - Full-stack developer with experience in Java, TypeScript, and C#  
-- Based in Christchurch, NZ, open to graduate SWE roles in Australia  
+- Based in Christchurch, NZ, open to graduate SWE roles and internships
 
 ---
 

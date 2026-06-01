@@ -20,16 +20,7 @@
 ### Outstanding *(Capstone Team Project)*
 Full-stack web application built with a team of 6 in a Scrum environment.
 Contributed across backend and frontend with regular sprints and peer code review.
-[Try here ->](https://csse-seng302-team100.canterbury.ac.nz/test/)
-
-### Task Manager
-Full-stack app built solo with **React**, **Spring Boot**, and **MySQL**.
-Focused on clean REST API design and layered architecture (Controller → Service → Repository).
-[View Repository →](https://github.com/GeorgeGattey/FullStackProject)
-
-### Cross Country Carrera
-2D racing game built in **JavaFX** for a university project.
-[View Repository →](https://github.com/GeorgeGattey/seng201-team15-project)
+[Try here ->](https://csse-seng302-team100.canterbury.ac.nz/prod/)
 
 ---
 

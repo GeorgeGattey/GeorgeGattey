@@ -3,7 +3,6 @@
 - Final Year Computer Science student at the University of Canterbury  
 - Based in Christchurch, NZ, open to graduate SWE roles and internships
 
----
 
 ## Projects
 
@@ -12,7 +11,6 @@ Full-stack web application built with a team of 6 in a Scrum environment.
 Contributed across backend and frontend with regular sprints and peer code review.
 [Try here ->](https://csse-seng302-team100.canterbury.ac.nz/prod/)
 
----
 
 ## Let's Connect
 

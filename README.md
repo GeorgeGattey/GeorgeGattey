@@ -1,17 +1,7 @@
 # Hi, I'm George Gattey
 
 - Final Year Computer Science student at the University of Canterbury  
-- Full-stack developer with experience in Java, TypeScript, and C#  
 - Based in Christchurch, NZ, open to graduate SWE roles and internships
-
----
-
-## Skills & Tools
-
-- **Languages:** `Java` `Python` `TypeScript` `JavaScript` `C#` `SQL` `HTML/CSS`
-- **Frameworks:** `Spring Boot` `React` `JavaFX` `.NET / EF Core` `Svelte`
-- **Tools:** `Git` `Maven` `Gradle` `MySQL` `IntelliJ` `VS Code`
-- **Practices:** `Agile / Scrum` `REST APIs` `Unit Testing`
 
 ---
 

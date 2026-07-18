@@ -6,7 +6,7 @@
 
 ## Projects
 
-### Outstanding *(Capstone Team Project)*
+### Deep Focus *(Capstone Team Project)*
 Full-stack web application built with a team of 6 in a Scrum environment.
 Contributed across backend and frontend with regular sprints and peer code review.
 [Try here ->](https://csse-seng302-team100.canterbury.ac.nz/prod/)
